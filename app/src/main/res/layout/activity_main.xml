@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/table_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:shrinkColumns="*"
+    android:stretchColumns="*" >
+<TableRow
+    android:id="@+id/tablerow1"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content">
+<TextView
+    android:id="@+id/queue_id"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:layout_span="1"
+    android:text="QueueId"
+    android:textSize="18dp"
+    android:textStyle="bold"
+    android:typeface="serif"
+
+    />
+    <TextView
+        android:id="@+id/person_name"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_span="1"
+        android:text="Name"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:typeface="serif"
+
+        />
+
+    <TextView
+        android:id="@+id/audition_completed"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_span="1"
+        android:text="Audition Completed"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:typeface="serif"
+
+        />
+
+</TableRow>
+</TableLayout>
