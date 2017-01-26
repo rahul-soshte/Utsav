@@ -9,5 +9,12 @@ https://code.tutsplus.com/tutorials/android-user-interface-design-table-layouts-
 
 
 
+https://www.simplifiedcoding.net/android-sqlite-database-tutorial-insert-into-sqlite-db/
+
+
+
+
+
+
 Tools Used:MySQL workbench
 Android Studio
