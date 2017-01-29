@@ -37,7 +37,7 @@
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
         android:layout_span="1"
-        android:text="Auditions Completed"
+        android:text="Class"
         android:textSize="18dp"
         android:textStyle="bold"
         android:typeface="serif"
